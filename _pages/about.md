@@ -4,8 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+![rvibek](https://res.cloudinary.com/rvibek-com-np/image/upload/c_scale,w_100/v1618400153/circle-cropped_4_dgiful.png)
+**// rvibek //**
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+https://rvibek.com.np
