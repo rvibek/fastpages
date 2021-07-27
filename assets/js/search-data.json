@@ -3,9 +3,9 @@
     
         "post0": {
             "title": "hello world, Fastpages - setup done!",
-            "content": "Curabitur porta senectus . Nibh proin eleifend odio integer venenatis vestibulum amet consequat mollis pharetra tempus, adipiscing massa accumsan eget quis imperdiet malesuada nunc lacus cubilia vitae tincidunt mauris. Molestie vel tellus in rhoncus elit torquent lobortis, dictum senectus tempor fringilla curabitur malesuada, nullam vehicula himenaeos convallis sociosqu gravida. Placerat fermentum class feugiat massa nulla iaculis habitasse congue, praesent vehicula varius velit etiam ultricies malesuada sit curae, in cum mauris eros risus adipiscing duis. .",
-            "url": "https://rvibek.com.np/fastpages/fastpages/%20hello-world/",
-            "relUrl": "/ hello-world/",
+            "content": "Curabitur porta senectus . Nibh proin eleifend odio integer venenatis vestibulum amet consequat mollis pharetra tempus, adipiscing massa accumsan eget quis imperdiet malesuada nunc lacus cubilia vitae tincidunt mauris. Molestie vel tellus in rhoncus elit torquent lobortis, dictum senectus tempor fringilla curabitur malesuada, nullam vehicula himenaeos convallis sociosqu gravida. Placerat fermentum class feugiat massa nulla iaculis habitasse congue, praesent vehicula varius velit etiam ultricies malesuada sit curae, in cum mauris eros risus adipiscing duis. . import altair as alt from vega_datasets import data import plotly.express as px source = data.cars() . alt.Chart(source).mark_circle(size=60).encode( x=&#39;Horsepower&#39;, y=&#39;Miles_per_Gallon&#39;, color=&#39;Origin&#39;, tooltip=[&#39;Name&#39;, &#39;Origin&#39;, &#39;Horsepower&#39;, &#39;Miles_per_Gallon&#39;] ).interactive() . px.scatter(source, x=&#39;Horsepower&#39;, y=&#39;Miles_per_Gallon&#39;, color=&#39;Origin&#39;, hover_name=&#39;Name&#39;, template=&#39;plotly_white&#39;) .",
+            "url": "https://rvibek.com.np/fastpages/fastpages/helloworld/",
+            "relUrl": "/helloworld/",
             "date": " • Jul 27, 2021"
         }
         
